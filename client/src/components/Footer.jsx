@@ -22,7 +22,7 @@ import {
               textAlign={['center', 'left']}
             >
               Subscribe to get updates
-            </Heading>
+            </Heading>  
             <HStack borderBottom={'2px solid white'} py="2">
               <Input
                 placeholder="Enter Email Here..."
